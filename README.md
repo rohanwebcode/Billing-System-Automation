@@ -1,7 +1,5 @@
 # Dokumentasi Program Otomatisasi Broadcast WhatsApp (AutoHotkey v2)
 
-Saya 
-
 Dokumen ini menjelaskan alur kerja, struktur kode, serta panduan penggunaan script **AutoHotkey (AHK v2)** yang dirancang untuk melakukan pengiriman pesan massal (*broadcast*) secara otomatis melalui **WhatsApp Web**.
 
 ## 1. Ringkasan Program
